@@ -1,0 +1,298 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1fb77505-62c3-40a3-b86d-d5c29cf039b7" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="C:\Users\Admin\Desktop\scripts\my_flask\.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectId" id="1cZpVQLzUfdCqWRg4NHpzbwZfPd" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Admin\Desktop\scripts\my_flask\app" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.p_90">
+    <configuration name="p_90" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="my_flask" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../my" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../my/p_90.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="snake2_6_0" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="my_flask" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../my/my_pain" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../my/my_pain/snake2_6_0.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="my_flask" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="trivia_challenge" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="my_flask" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$USER_HOME$/Downloads/Telegram Desktop" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$USER_HOME$/Downloads/Telegram Desktop/trivia_challenge.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.p_90" />
+        <item itemvalue="Python.snake2_6_0" />
+        <item itemvalue="Python.test" />
+        <item itemvalue="Python.trivia_challenge" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="StructureViewFactory">
+    <option name="AUTOSCROLL_FROM_SOURCE" value="true" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9d168780-5003-40db-bc7b-a4184d67c64b" name="Default Changelist" comment="" />
+      <created>1590745993615</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1590745993615</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Updating the main page.">
+      <created>1590934602576</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1590934602576</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Updating the main page, again.">
+      <created>1590936134990</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1590936134990</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Updating the main page, again.">
+      <created>1590936173955</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1590936173955</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Updating the main script, again.">
+      <created>1590936647004</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1590936647004</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Updating the main script, nothing interesting.">
+      <created>1590936735208</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1590936735208</updated>
+    </task>
+    <task id="LOCAL-00006" summary="ex">
+      <created>1590937266970</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1590937266970</updated>
+    </task>
+    <task id="LOCAL-00007" summary="ex">
+      <created>1590937406612</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1590937406612</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Updating the whole project.">
+      <created>1590946654832</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1590946654832</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Updating the whole project, again.">
+      <created>1590950821998</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1590950821998</updated>
+    </task>
+    <task id="LOCAL-00010" summary="I'm only doing this because the pycharm is getting too angry.">
+      <created>1591022137896</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1591022137896</updated>
+    </task>
+    <task id="LOCAL-00011" summary="I'm only doing this because the pycharm is getting too angry.Again.">
+      <created>1591027167551</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1591027167551</updated>
+    </task>
+    <task id="LOCAL-00012" summary="I'm only doing this because the pycharm is getting too angry.Again.">
+      <created>1591133520206</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1591133520206</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
+    <servers />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.css" />
+  </component>
+  <component name="Vcs.Log.History.Properties">
+    <option name="COLUMN_ORDER">
+      <list>
+        <option value="0" />
+        <option value="2" />
+        <option value="3" />
+        <option value="1" />
+      </list>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Updating the main page." />
+    <MESSAGE value="Updating the main page, again." />
+    <MESSAGE value="Updating the main script, again." />
+    <MESSAGE value="Updating the main script, nothing interesting." />
+    <MESSAGE value="ex" />
+    <MESSAGE value="Updating the whole project." />
+    <MESSAGE value="Updating the whole project, again." />
+    <MESSAGE value="I'm only doing this because the pycharm is getting too angry." />
+    <MESSAGE value="I'm only doing this because the pycharm is getting too angry.Again." />
+    <option name="LAST_COMMIT_MESSAGE" value="I'm only doing this because the pycharm is getting too angry.Again." />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="456" y="171" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1591724452369">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="456" y="171" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.738@0.0.1366.738" timestamp="1591724452369" />
+    <state x="337" y="0" width="786" height="528" key="CommitChangelistDialog2" timestamp="1591133513997">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="337" y="0" width="786" height="528" key="CommitChangelistDialog2/0.0.1366.738@0.0.1366.738" timestamp="1591133513997" />
+    <state x="129" y="55" key="DiffContextDialog" timestamp="1590936713764">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="129" y="55" key="DiffContextDialog/0.0.1366.738@0.0.1366.738" timestamp="1590936713764" />
+    <state width="1345" height="150" key="GridCell.Tab.0.bottom" timestamp="1591359575262">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1345" height="150" key="GridCell.Tab.0.bottom/0.0.1366.738@0.0.1366.738" timestamp="1591359575262" />
+    <state width="1345" height="150" key="GridCell.Tab.0.center" timestamp="1591359575262">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1345" height="150" key="GridCell.Tab.0.center/0.0.1366.738@0.0.1366.738" timestamp="1591359575262" />
+    <state width="1345" height="150" key="GridCell.Tab.0.left" timestamp="1591359575262">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1345" height="150" key="GridCell.Tab.0.left/0.0.1366.738@0.0.1366.738" timestamp="1591359575262" />
+    <state width="1345" height="150" key="GridCell.Tab.0.right" timestamp="1591359575262">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1345" height="150" key="GridCell.Tab.0.right/0.0.1366.738@0.0.1366.738" timestamp="1591359575262" />
+    <state x="346" y="59" width="672" height="678" key="search.everywhere.popup" timestamp="1591273725295">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="346" y="59" width="672" height="678" key="search.everywhere.popup/0.0.1366.738@0.0.1366.738" timestamp="1591273725295" />
+  </component>
+</project>
