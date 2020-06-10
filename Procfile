@@ -1,4 +1,4 @@
-web: flask db init
-web: flask db migrate -m 'ex'
-web: flask db upgrade
 web: gunicorn first:app
+init: flask db init
+migrate: flasky db migrate
+upgrade: flask db upgrade
