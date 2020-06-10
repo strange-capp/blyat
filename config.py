@@ -106,5 +106,5 @@ config = {
     'heroku': HerokuConfig,
     'docker': DockerConfig,
 
-    'default': DevelopmentConfig
+    'default': HerokuConfig
 }
