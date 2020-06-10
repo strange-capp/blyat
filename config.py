@@ -69,10 +69,6 @@ class ProductionConfig(Config):
 
 class HerokuConfig(ProductionConfig):
     SSL_REDIRECT = True if os.environ.get('DYNO') else False
-    postgres: // dynhscjcfyefkg: 1e3
-    a4af24f600f23d0509f880b92256499d48259351a06b53298a3f28f06f876 @ ec2 - 52 - 70 - 15 - 120.
-    compute - 1.
-    amazonaws.com: 5432 / d5vuut7reoc1ri
 
     @classmethod
     def init_app(cls, app):
